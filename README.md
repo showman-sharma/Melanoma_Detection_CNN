@@ -16,7 +16,7 @@
 - Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths.
 - A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 - In this project, we use CNN based models that take images of malignant and benign oncological diseases and classify them into 9 classes of different diseases and cancers.
-- The training and validation data is formed from the International Skin Imaging Collaboration (ISIC).
+- The training and validation data is formed from the [International Skin Imaging Collaboration (ISIC)](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic).
 - We build upon one CNN based model architecture, and train it with different augmentation techniques.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
